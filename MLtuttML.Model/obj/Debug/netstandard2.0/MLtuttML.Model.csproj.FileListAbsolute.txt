@@ -1,0 +1,10 @@
+D:\pra\MLtutt\MLtuttML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\pra\MLtutt\MLtuttML.Model\bin\Debug\netstandard2.0\MLtuttML.Model.deps.json
+D:\pra\MLtutt\MLtuttML.Model\bin\Debug\netstandard2.0\MLtuttML.Model.dll
+D:\pra\MLtutt\MLtuttML.Model\bin\Debug\netstandard2.0\MLtuttML.Model.pdb
+D:\pra\MLtutt\MLtuttML.Model\obj\Debug\netstandard2.0\MLtuttML.Model.csprojAssemblyReference.cache
+D:\pra\MLtutt\MLtuttML.Model\obj\Debug\netstandard2.0\MLtuttML.Model.csproj.CoreCompileInputs.cache
+D:\pra\MLtutt\MLtuttML.Model\obj\Debug\netstandard2.0\MLtuttML.Model.AssemblyInfoInputs.cache
+D:\pra\MLtutt\MLtuttML.Model\obj\Debug\netstandard2.0\MLtuttML.Model.AssemblyInfo.cs
+D:\pra\MLtutt\MLtuttML.Model\obj\Debug\netstandard2.0\MLtuttML.Model.dll
+D:\pra\MLtutt\MLtuttML.Model\obj\Debug\netstandard2.0\MLtuttML.Model.pdb

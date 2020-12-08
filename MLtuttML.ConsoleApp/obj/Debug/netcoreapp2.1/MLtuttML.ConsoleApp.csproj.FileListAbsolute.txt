@@ -1,0 +1,16 @@
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.deps.json
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.runtimeconfig.json
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.runtimeconfig.dev.json
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.dll
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.pdb
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLtuttML.Model.dll
+D:\pra\MLtutt\MLtuttML.ConsoleApp\bin\Debug\netcoreapp2.1\MLtuttML.Model.pdb
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.csprojAssemblyReference.cache
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.AssemblyInfoInputs.cache
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.AssemblyInfo.cs
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.csproj.CopyComplete
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.dll
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.pdb
+D:\pra\MLtutt\MLtuttML.ConsoleApp\obj\Debug\netcoreapp2.1\MLtuttML.ConsoleApp.genruntimeconfig.cache
